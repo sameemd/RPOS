@@ -1,0 +1,9 @@
+c:\users\msamiudd.oradev\documents\visual studio 2017\Projects\RPOS\RPOS\bin\Debug\netcoreapp1.1\RPOS.deps.json
+c:\users\msamiudd.oradev\documents\visual studio 2017\Projects\RPOS\RPOS\bin\Debug\netcoreapp1.1\RPOS.runtimeconfig.json
+c:\users\msamiudd.oradev\documents\visual studio 2017\Projects\RPOS\RPOS\bin\Debug\netcoreapp1.1\RPOS.runtimeconfig.dev.json
+c:\users\msamiudd.oradev\documents\visual studio 2017\Projects\RPOS\RPOS\obj\Debug\netcoreapp1.1\RPOS.csprojResolveAssemblyReference.cache
+c:\users\msamiudd.oradev\documents\visual studio 2017\Projects\RPOS\RPOS\obj\Debug\netcoreapp1.1\RPOS.AssemblyInfo.cs
+C:\Users\msamiudd.ORADEV\documents\visual studio 2017\Projects\RPOS\RPOS\bin\Debug\netcoreapp1.1\RPOS.dll
+C:\Users\msamiudd.ORADEV\documents\visual studio 2017\Projects\RPOS\RPOS\bin\Debug\netcoreapp1.1\RPOS.pdb
+C:\Users\msamiudd.ORADEV\documents\visual studio 2017\Projects\RPOS\RPOS\obj\Debug\netcoreapp1.1\RPOS.dll
+C:\Users\msamiudd.ORADEV\documents\visual studio 2017\Projects\RPOS\RPOS\obj\Debug\netcoreapp1.1\RPOS.pdb
