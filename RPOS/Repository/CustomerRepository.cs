@@ -27,8 +27,8 @@ namespace RPOS.Repository
         {
             using (IDbConnection dbConnection = Connection)
             {
-                string sQuery = "INSERT INTO Customer (CustomerName, CustomerDOB, Contact, TickedId)"
-                                + " VALUES(@CustomerName, @CustomerDOB, @Contact, @TickedId)";
+                string sQuery = "INSERT INTO Customer (CustomerName, CustomerDOB, Contact, TicketId)"
+                                + " VALUES(@CustomerName, @CustomerDOB, @Contact, @TicketId)";
                 dbConnection.Open();
                 dbConnection.Execute(sQuery, cust);
             }
