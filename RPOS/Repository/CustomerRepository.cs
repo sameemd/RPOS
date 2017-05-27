@@ -70,7 +70,7 @@ namespace RPOS.Repository
             using (IDbConnection dbConnection = Connection)
             {
                 string sQuery = "UPDATE Customer SET CustomerName = @CustomerName,"
-                               + " Contact = @Contact, TickedId = @TicketId"
+                               + " Contact = @Contact, TicketId = @TicketId"
                                + " WHERE CustomerId = @CustomerId";
                 dbConnection.Open();
                 dbConnection.Query(sQuery, cust);
